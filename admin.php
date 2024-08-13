@@ -75,7 +75,7 @@
   <div class="container-fluid">
         <div class="row">
             <div class="col-md-12 imgee">
-                <img src="image/admin.jpg" alt="pets image" width="1300px" height="500px"/>
+                <img src="admin.jpg" alt="pets image" width="1300px" height="500px"/>
             </div>
         </div>
     </div>
